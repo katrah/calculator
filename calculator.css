@@ -7,3 +7,15 @@
   color: #666;
   display: inline-block;
 }
+
+.button:hover {
+  background: #ddd;
+  border: 1px solid #aaa;
+  color: #555;
+}
+
+.button:active {
+  background: #ccc;
+  border: 1px solid #999;
+  color: #333;
+}
